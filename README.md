@@ -5,6 +5,7 @@ Periodic Transaction Report (PTR) with Gemini, and consolidates everything
 into an Excel workbook.
 
 Dataset from 2015-Early August 2026: https://www.kaggle.com/datasets/ng3412/congress-trading-disclosures
+
 Disclaimer: Built with Claude. A less clunky but undocumented version is available on request.
 
 Four stages, each resumable. If a run is interrupted, call the same function
