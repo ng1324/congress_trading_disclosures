@@ -4,6 +4,8 @@ Downloads U.S. House financial disclosures, extracts the trades from each
 Periodic Transaction Report (PTR) with Gemini, and consolidates everything
 into an Excel workbook.
 
+Dataset from 2015-Early August 2026: https://www.kaggle.com/datasets/ng3412/congress-trading-disclosures
+
 Four stages, each resumable. If a run is interrupted, call the same function
 again and it picks up where it stopped.
 
