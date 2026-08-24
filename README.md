@@ -6,7 +6,7 @@ into an Excel workbook.
 
 Dataset from 2015-Early August 2026: https://www.kaggle.com/datasets/ng3412/congress-trading-disclosures
 
-Disclaimer: Built with Claude. A less clunky but undocumented version is available on request.
+Disclaimer: Built with Claude. An original less clunky but undocumented version is available on request.
 
 Four stages, each resumable. If a run is interrupted, call the same function
 again and it picks up where it stopped.
